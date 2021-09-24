@@ -26,5 +26,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 #### **Utilitários**
 
-- Editor: **[Visual Studio Code](https://code.visualstudio.com/)**
-- Markdown: **[StackEdit](https://stackedit.io/)**, **[Markdown Emoji](https://gist.github.com/rxaviers/7360908)**
+- Api  **[Calendario JS](https://github.com/yusufshakeel/dyCalendarJS)**
+- Editor **[Visual Studio Code](https://code.visualstudio.com/)**
+- Markdown **[StackEdit](https://stackedit.io/)**, **[Markdown Emoji](https://gist.github.com/rxaviers/7360908)**
